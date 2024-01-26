@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+* html{
+    font-size: 90.5;
+}
+
+body{
+    background-size: cover;
+  
+}
+
+#logo{
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    width: 60px;
+    height: auto;
+}
+   
+.side{
+    color: burlywood;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* border: 1px solid red ; */
+    float: left;
+    margin: 100px;
+    width: 50%;
+}
+.myMargin{
+    margin: 1px;
+     margin-bottom: 100px;
+}
+
+nav{
+    float: none;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px;
+}
+
+nav li:hover{
+    background-color: rgb(180, 123, 142);
+    color: black;
+}
+
+.myMargin{
+    margin: 1px;
+     margin-bottom: 10px;
+     
+
+    
+
+}
+.carousel-inner{
+    height: 700px;
+    width: 60px;
+}
+
+.container{
+    margin: 100px 200px;
+    display: flex;
+    float: inline-start;
+    gap: 20px;    
+    
+}
+.box{
+    background-color: #e9e2e2da;
+    line-height: 2;
+    border: 2px solid white;
+    margin-right: 100px;
+    margin-left: 240px;
+
+    
+}
+.box a{
+    color: orangered;
+    justify-content: center;
+    align-items: center;
+}
+.box p{
+    font-size: 1rem;
+}
+.box h2{
+    font-size: 4rem;
+
+}
+
+.box a{
+    font-size: small;
+    color: orangered;
+
+} 
+
+ 

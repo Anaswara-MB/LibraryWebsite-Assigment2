@@ -1,0 +1,61 @@
+*body{
+    background-image: url(../images/photo-1468273519810-d3fe4c125cdb.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 700px;
+    }
+    .Simple-form{
+    text-align: center;
+    margin: 90px 470px;
+    text-overflow: skyblue;
+    }
+    #Registration{
+    width: 100%;
+    background-color: #051019;
+    opacity: 0.8;
+    padding: 50px 0px;
+    }
+    #button{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+    }
+    #Ph{
+    outline: 0px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    }
+    #Phone{
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+    }
+    #rd{
+        width: 0px;
+    }
+
+    #but{
+    color: black;
+    font-size: 18px;
+    }
+
+    button{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+    background-color: #0c6996;
+    border: 2px solid #01010c;
+    color: aliceblue;
+    font-size: 18px;
+    }
+    /* button{
+        width: 100%;
+        background-color: dodgerblue;
+        border: none;
+        height: 1.5em;
+        width: 170px;
+        color: white;
+    } */

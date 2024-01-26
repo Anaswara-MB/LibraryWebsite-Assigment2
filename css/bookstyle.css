@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    float: none;
+    margin-right: 30px;
+    margin-top: 5px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid white;
+    padding: 10px;
+    margin: 5px;
+}
+
+nav a:hover{
+    background-color: teal;
+    color: black;
+}
+.size{
+    height: 400px;
+}
+a{
+    margin-left: 60px;
+    margin-right: 60px;
+}
